@@ -1,0 +1,21 @@
+{
+  "main.css": "/portfolio/static/css/main.a847ab8e.chunk.css",
+  "main.js": "/portfolio/static/js/main.0f1820a7.chunk.js",
+  "main.js.map": "/portfolio/static/js/main.0f1820a7.chunk.js.map",
+  "runtime~main.js": "/portfolio/static/js/runtime~main.f308c8e6.js",
+  "runtime~main.js.map": "/portfolio/static/js/runtime~main.f308c8e6.js.map",
+  "static/css/2.9b6b27d3.chunk.css": "/portfolio/static/css/2.9b6b27d3.chunk.css",
+  "static/js/2.3f395659.chunk.js": "/portfolio/static/js/2.3f395659.chunk.js",
+  "static/js/2.3f395659.chunk.js.map": "/portfolio/static/js/2.3f395659.chunk.js.map",
+  "index.html": "/portfolio/index.html",
+  "precache-manifest.5d26bd44eda2a68a81b4f03ea382f451.js": "/portfolio/precache-manifest.5d26bd44eda2a68a81b4f03ea382f451.js",
+  "service-worker.js": "/portfolio/service-worker.js",
+  "static/css/2.9b6b27d3.chunk.css.map": "/portfolio/static/css/2.9b6b27d3.chunk.css.map",
+  "static/css/main.a847ab8e.chunk.css.map": "/portfolio/static/css/main.a847ab8e.chunk.css.map",
+  "static/media/App.css": "/portfolio/static/media/ALBA.a02d0a17.TTF",
+  "static/media/About.css": "/portfolio/static/media/aboutBackground.4c9f2260.PNG",
+  "static/media/backgroundGen.PNG": "/portfolio/static/media/backgroundGen.b130e8d9.PNG",
+  "static/media/facerecognition.png": "/portfolio/static/media/facerecognition.b663dc75.png",
+  "static/media/pic.JPG": "/portfolio/static/media/pic.c14f01a8.JPG",
+  "static/media/robofriends.jpg": "/portfolio/static/media/robofriends.8648a95b.jpg"
+}
