@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/facerecognition.b663dc75.png"
   },
   {
-    "revision": "6f7e698b24a24792828e",
+    "revision": "001433acb256be78ef24",
     "url": "/static/css/main.9d775ba7.chunk.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/static/media/pic.c14f01a8.JPG"
   },
   {
-    "revision": "6f7e698b24a24792828e",
-    "url": "/static/js/main.9cc981c2.chunk.js"
+    "revision": "001433acb256be78ef24",
+    "url": "/static/js/main.29ff4bfd.chunk.js"
   },
   {
     "revision": "8648a95b4fb2871c41f5509e8c6a4dec",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/static/css/2.b5dc3152.chunk.css"
   },
   {
-    "revision": "91f464b7ea68dd9fb795c48adcc17f12",
+    "revision": "5d33169a7cf23e88c3942df25c59cfd0",
     "url": "/index.html"
   }
 ];
