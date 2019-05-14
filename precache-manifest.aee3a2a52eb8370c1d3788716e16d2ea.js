@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/static/media/robofriends.8648a95b.jpg"
   },
   {
-    "revision": "b7fadfc7305886d8d42d",
-    "url": "/static/css/main.fcee7d5a.chunk.css"
+    "revision": "fef70d2870f2c17e7e52",
+    "url": "/static/css/main.1f61713b.chunk.css"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/static/media/facerecognition.b663dc75.png"
   },
   {
-    "revision": "b7fadfc7305886d8d42d",
-    "url": "/static/js/main.1893b5a2.chunk.js"
+    "revision": "fef70d2870f2c17e7e52",
+    "url": "/static/js/main.a0c25a18.chunk.js"
   },
   {
     "revision": "b130e8d9edd0b0edebc2c91ccff6d676",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/static/css/2.b5dc3152.chunk.css"
   },
   {
-    "revision": "c8e65dbb2b99c77b5d1f0e97b1919e54",
+    "revision": "39274b2ee4903c208988f27bd232953d",
     "url": "/index.html"
   }
 ];
