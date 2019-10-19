@@ -8,8 +8,8 @@ self.__precacheManifest = [
     "url": "/static/js/0.1e49e53b.chunk.js"
   },
   {
-    "revision": "4d27fe2a3f34fcc45d9f",
-    "url": "/static/js/main.a164f3f4.chunk.js"
+    "revision": "90bf8c7a66c2bee6d939",
+    "url": "/static/js/main.9750071f.chunk.js"
   },
   {
     "revision": "43f7dcc8d38dc093a676",
@@ -116,7 +116,7 @@ self.__precacheManifest = [
     "url": "/static/media/dg-halloween.39591c0b.png"
   },
   {
-    "revision": "4d27fe2a3f34fcc45d9f",
+    "revision": "90bf8c7a66c2bee6d939",
     "url": "/static/css/main.1950be0e.chunk.css"
   },
   {
@@ -124,7 +124,7 @@ self.__precacheManifest = [
     "url": "/static/css/3.29a9a64b.chunk.css"
   },
   {
-    "revision": "bd82ec1066cb069f27ab52775a98158e",
+    "revision": "7766a3faa408ddf701f86da02829e069",
     "url": "/index.html"
   }
 ];
